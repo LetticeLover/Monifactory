@@ -3097,8 +3097,6 @@
   "ftbquests.chapter_groups.title0": "\u00269Main Progression\u00269",
   "ftbquests.chapter_groups.title1": "\u00269Guides \\\u0026 Help\u00269",
   "ftbquests.loot_table.title1": "Cakes",
-  
-  // Hardmode
   "ftbquests.chapter.hm.genesis.quest1.description1": "This pack is in \u0026eBeta\u0026r. Issues are to be expected at this stage of development.",
   "ftbquests.chapter.hm.genesis.quest1.description3": "Do note that a decent number of mods in this pack are also in alpha or beta as well, so before reporting an issue, make sure that the issue can not be replicated with the mod on it\u0027s own, and if it can, report it to the mod\u0027s repository instead.",
   "ftbquests.chapter.hm.genesis.quest1.rich_description1": "If you find something broken/missing/etc, make an issue on the ",
@@ -3855,9 +3853,7 @@
   "ftbquests.chapter.hm.the_factory.quest9.task.title1": "LV, MV, or HV Bender",
   "ftbquests.chapter.hm.the_factory.quest9.title": "\u00262LV Bender",
   "ftbquests.chapter.hm.the_factory.title": "The Factory",
-  
-  // Expert Mode
-    "ftbquests.chapter.em.genesis.quest1.description1": "This pack is in \u0026eBeta\u0026r. Issues are to be expected at this stage of development.",
+  "ftbquests.chapter.em.genesis.quest1.description1": "This pack is in \u0026eBeta\u0026r. Issues are to be expected at this stage of development.",
   "ftbquests.chapter.em.genesis.quest1.description3": "Do note that a decent number of mods in this pack are also in alpha or beta as well, so before reporting an issue, make sure that the issue can not be replicated with the mod on it\u0027s own, and if it can, report it to the mod\u0027s repository instead.",
   "ftbquests.chapter.em.genesis.quest1.rich_description1": "If you find something broken/missing/etc, make an issue on the ",
   "ftbquests.chapter.em.genesis.quest1.rich_description2": "Monifactory repository",
